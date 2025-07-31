@@ -1034,6 +1034,7 @@ footer::before {
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     text-align: left;
+    margin-top: 5%;
     margin-bottom: 30px; /* Adiciona espaçamento na parte inferior */
     transition: transform 0.3s;
 }
@@ -1045,8 +1046,8 @@ footer::before {
 .servico-card i {
     font-size: 2rem;
     color: #4caf50;
-    margin-top: 10%;
-    margin-bottom: 15px;
+    margin-top: 5%;
+    margin-bottom: 5px;
 }
 .servicos h1{
     justify-content: center;
